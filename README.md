@@ -7,7 +7,7 @@ Hi. I'm Shiva, a computer science student at North Carolina State University. I 
 - 🔵↔🔵 I’m learning how to reverse linked lists (and about other fun data structures and algorithms)
 - ⚾⚾⚾ I'm watching the best team in the MLB (Boston Red Sox) secure the AL East 
 - 🔎🔎🔎 Actively searching for internships in software engineering and data science
-- 
+- 💎🤲📈 Riding my 1 share of AMC to the moon
 
 I'm always like meeting new people, so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shivaganapathy/)  or shoot me an [Email](mailto:shivastem@gmail.com)!
 
