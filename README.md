@@ -12,7 +12,7 @@ I am:
 - 🔎🔎🔎  Actively searching for internships in software engineering and data science
 
 
-I'm always like meeting new people, so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shivaganapathy/)  or shoot me an [Email](mailto:shivastem@gmail.com)!
+I'm always like meeting new people, so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shiva-ganapathy/)  or shoot me an [Email](mailto:shivastem@gmail.com)!
 
 
 
