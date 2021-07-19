@@ -16,7 +16,7 @@ I'm always like meeting new people, so feel free to connect with me on [LinkedIn
 
 **Languages and Tools:**  
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogoeps.com%2Fdownload-java-logo-vector-ai-eps-crd%2F1608%2F&psig=AOvVaw0McDVAAgd3dYt7rzsOSEJu&ust=1626744530360000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiHlOL97fECFQAAAAAdAAAAABAP"></code>
+<code><img height="35" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
