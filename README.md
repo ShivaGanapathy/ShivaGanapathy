@@ -12,9 +12,7 @@ I am:
 - 🔎🔎🔎  Actively searching for internships in software engineering and data science
 
 
-I'm always like meeting new people, so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shiva-ganapathy/)  or shoot me an [Email](mailto:shivastem@gmail.com)!
-
-**Languages and Tools:**  
+## Languages and Tools:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -27,4 +25,5 @@ I'm always like meeting new people, so feel free to connect with me on [LinkedIn
 <code><img height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 
 
-
+## Let's Get In Touch!
+I'm always like meeting new people, so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shiva-ganapathy/)  or shoot me an [Email](mailto:shivastem@gmail.com)!
