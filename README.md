@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 Hi. I'm Shiva, a computer science student at North Carolina State University. I am an experienced software developer and data science enthusiast. 
 
