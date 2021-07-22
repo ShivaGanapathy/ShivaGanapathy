@@ -5,7 +5,7 @@ Hi. I'm Shiva, a computer science student at North Carolina State University. I 
 ## What I'm doing this summer
 
 I am:
-- 🌈🌈🌈  Working on a cool color sorting visualizer project!
+- 🌈🌈🌈  Working on a cool color sorting visualizer project with React.Js!
 - ↔↔↔ Learning about linked lists (and other fun data structures and algorithms)
 - ⚾⚾⚾  Watching the best team in the MLB (Boston Red Sox) secure the AL East 
 - 💎🤲📈  Riding my 1 share of AMC to the moon
