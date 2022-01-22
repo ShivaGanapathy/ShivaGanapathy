@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-Hi. I'm Shiva, a computer science student at North Carolina State University. I am an experienced software developer and data science enthusiast. 
+Hi. I'm Shiva, a 1st year computer science student at North Carolina State University. I will be joining Meta as a software engineering intern this Summer. I love working on projects that have a large impact, and I'm always looking for my next opportunity.
 
-## What I'm doing this summer
+## What I'm doing this Winter
 
 I am:
 - 🌈🌈🌈  Working on a cool color sorting visualizer project with React.Js!
-- ↔↔↔ Learning about linked lists (and other fun data structures and algorithms)
-- ⚾⚾⚾  Watching the best team in the MLB (Boston Red Sox) secure the AL East 
+- ↔↔↔ Learning about graphs (and other fun data structures and algorithms)
+- 🏈🏈🏈  Watching the NFL Playoffs and jumping on the Bucs Bandwagon
 - 💎🤲📈  Riding my 1 share of AMC to the moon
-- 🔎🔎🔎  Actively searching for internships in software engineering and data science
+- 🔎🔎🔎  Actively searching for internships in software engineering
 
 
 ## Languages and Tools:
