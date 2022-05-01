@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi. I'm Shiva, a 1st year computer science student at North Carolina State University. I will be joining Meta as a software engineering intern this Summer. I love working on projects that have a large impact, and I'm always looking for my next opportunity.
+Hi. I'm Shiva, a computer science student at North Carolina State University. I will be joining Meta as a software engineering intern this Summer. I love working on projects that have a large impact, and I'm always looking for my next opportunity.
 
 ## What I'm doing this Summer
 
