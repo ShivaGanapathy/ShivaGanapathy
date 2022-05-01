@@ -2,14 +2,13 @@
 
 Hi. I'm Shiva, a 1st year computer science student at North Carolina State University. I will be joining Meta as a software engineering intern this Summer. I love working on projects that have a large impact, and I'm always looking for my next opportunity.
 
-## What I'm doing this Winter
+## What I'm doing this Summer
 
 I am:
-- 🌈🌈🌈  Working on a cool color sorting visualizer project with React.Js!
-- ↔↔↔ Learning about graphs (and other fun data structures and algorithms)
-- 🏈🏈🏈  Watching the NFL Playoffs and jumping on the Bucs Bandwagon
-- 💎🤲📈  Riding my 1 share of AMC to the moon
-- 🔎🔎🔎  Actively searching for internships in software engineering
+- 📈📈📈  Interning as a software engineer at Meta on the Facebook for Business Growth Team
+- 💻💻💻  Getting better at graphs and dynamic programming algorithms
+- 🏀🍀🏀  Watching the best team in the NBA (Boston Celtics) secure a championship
+- 🔎🔎🔎  Actively searching for Summer 2023 internships in software engineering
 
 
 ## Languages and Tools:
